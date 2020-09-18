@@ -1,0 +1,6 @@
+__version__ = "0.0.0"
+__url__ = "https://backblaze.readthedocs.io/en/latest/"
+__description__ = "Wrapper for Backblaze's B2."
+__author__ = "WardPearce"
+__author_email__ = "wardpearce@protonmail.com"
+__license__ = "GPL-3.0 License"
